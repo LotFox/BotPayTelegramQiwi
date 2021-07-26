@@ -2,11 +2,11 @@
 
 
 
-token = "1832272360:AAEHg0GKi0dLcDCEOxaycIb-5hEMHrOu9bk" # токен бота
-idadmin = 1724577151    # id админа  @userinfobot  тут можете брать
+token = "" # токен бота
+idadmin =     # id админа  @userinfobot  тут можете брать
 
-qiwinumber = 79311039557    # номер киви без +
-token_qiwi='422a2ffed7f669ef6267aba79587e12e'  # токен киви
+qiwinumber = 79999999    # номер киви без +
+token_qiwi=''  # токен киви
 
 cena = 100 #цена доступа
 
